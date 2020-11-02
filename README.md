@@ -1,2 +1,131 @@
-# rspatial-map-challenge-2020
-A list of maps created in #rspatial for #30DayMapChallenge
+# 30DayMapChallenge 2020: *#rspatial edition*
+
+*A list of maps created for #30DayMapChallenge using #rspatial*.
+To learn more about #30DayMapChallenge visit https://github.com/tjukanovt/30DayMapChallenge.
+
+## How to contribute?
+
+Anyone is welcome to contribute.
+Feel free to create a pull request with a link to your map. 
+Bonus points for related R code!
+
+
+## Day 1
+
+2020-11-01 - Points - *A map with points*
+
+## Day 2
+
+2020-11-02 - Lines - *A map with lines*
+
+## Day 3
+
+2020-11-03 - Polygons - *A map with polygons*
+
+## Day 4
+
+2020-11-04 - Hexagons - *A map with hexagons*
+
+## Day 5
+
+2020-11-05 - Blue - *A map with blue colour or a map about something blue*
+
+## Day 6
+
+2020-11-06 - Red - *A map with red colour or a map about something red*
+
+## Day 7
+
+2020-11-07 - Green - *A map with green colour or a map about something green*
+
+## Day 8
+
+2020-11-08 - Yellow - *A map with yellow colour or a map about something yellow*
+
+## Day 1
+
+2020-11-09 - Monochrome - *A monochromic image is composed of one color (or values of one color). So for example black and white maps are valid here. [See some inspiration from the great monochrome mapping competition](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/) (although those masterpieces took a bit more than a day to make, probably).*
+
+## Day 10
+
+2020-11-19 - Grid - *Whether you call it a grid or a fishnet, the idea is to visualize something in a grid form*
+
+## Day 11
+
+2020-11-11 - 3D - *The magnificent third dimension! Visualize something in 3D*
+
+## Day 12
+
+2020-11-12 - Map not made with GIS software - *Can be anything from hand-drawn to a map made with excel or ASCII. So get out your pen and paper or go crazy*
+
+## Day 13
+
+2020-11-13 - Raster - *Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels*
+
+## Day 14
+
+2020-11-14 - Climate change - *Climate change is one of the biggest challenges of our time and the spatial community has an important role to communicate this*
+
+## Day 15
+
+2020-11-15 - Connections - *Connections between something*
+
+## Day 16
+
+2020-11-16 - Island(s) - *Islands tend to look quite beautiful on maps. Could be also something else than physical islands*
+
+## Day 17
+
+2020-11-17 - Historical map - *Historical data, historical map style or something else*
+
+## Day 18
+
+2020-11-18 - Landuse - *How land is used, within a city, region, country or continent? How has it changed?*
+
+## Day 19
+
+2020-11-19 - NULL - *Missing data. We all hate that, right? How to map something that is missing?*
+
+## Day 20
+
+2020-11-20 - Population - *That is you and me. A classic theme for thematic maps*
+
+## Day 21
+
+2020-11-21 - Water - *Oceans, lakes, rivers or something completely different*
+
+## Day 22
+
+2020-11-22 - Movement - *Visualizing movement can be done with a static map or with an animation*
+
+## Day 23
+
+2020-11-23 - Boundaries - *Boundaries are all around us. Some of them are visible and some of them are in our heads*
+
+## Day 24
+
+2020-11-24 - Elevation - *Sweet hillshades, beautiful contours, high mountains or low valleys*
+
+## Day 25
+
+2020-11-25 - COVID-19 - *It’s 2020 and I’m just as fed up with COVID-19 as you are, but just can’t skip this theme this year. Check [this blog post](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)for some tips*
+
+## Day 26
+
+2020-11-26 - Map with a new tool - *As the whole challenge is much about learning and experimenting, this day is dedicated to exploring new tools*
+
+## Day 27
+
+2020-11-27 - Big or small data - *What is meaningful big spatial data? What kind of spatial data is small but interesting?*
+
+## Day 28
+
+2020-11-28 - Non-geographic map - *Topological maps, maps about planets, microscopic bacteria mapped or maybe even something weirder*
+
+## Day 29
+
+2020-11-29 - Globe - *The world isn’t flat, so with this map you can emphase the roundness of our planet*
+
+## Day 30
+
+2020-11-30 - A map - *No rules. You've made it this far, so do what you want. Just make a map*
