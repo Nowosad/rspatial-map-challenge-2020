@@ -14,6 +14,20 @@ Bonus points for related R code!
 
 2020-11-01 - Points - *A map with points*
 
+<img src="figs/day01-example.jpeg" width="500">
+
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1322900054970163200)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1322621799096483840)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1322824722405597184)
+- [giurugg](https://twitter.com/giurugg) - [link](https://twitter.com/giurugg/status/1322855600263409667)
+- [geodatascience](https://twitter.com/geodatascience) - [link](https://twitter.com/geodatascience/status/1322870996894961664) - [code](https://github.com/CaitHRobinson/beltandroad)
+- [afrimapr](https://twitter.com/afrimapr) - [link](https://twitter.com/afrimapr/status/1322906394580996099)
+- [mirzacengic](https://twitter.com/mirzacengic) - [link](https://twitter.com/mirzacengic/status/1322959665085452290)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1322996652542668800)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1323017743969472512)
+- [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323054269851824129)
+- [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1323092527029886978)
+
 ## Day 2
 
 2020-11-02 - Lines - *A map with lines*
