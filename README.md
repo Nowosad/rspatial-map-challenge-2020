@@ -27,10 +27,13 @@ Bonus points for related R code!
 - [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1323017743969472512)
 - [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323054269851824129)
 - [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1323092527029886978)
+- [valen_ibiza](https://twitter.com/valen_ibiza) - [link](https://twitter.com/valen_ibiza/status/1323020336535883777)
 
 ## Day 2
 
 2020-11-02 - Lines - *A map with lines*
+
+- [valen_ibiza](https://twitter.com/valen_ibiza) - [link](https://twitter.com/valen_ibiza/status/1323236534481489920)
 
 ## Day 3
 
