@@ -14,7 +14,7 @@ Bonus points for related R code!
 
 2020-11-01 - Points - *A map with points*
 
-<img src="figs/day01-example.jpeg" width="500">
+<img src="figs/day01-example.png" width="500">
 
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1322900054970163200)
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1322621799096483840)
@@ -36,6 +36,7 @@ Bonus points for related R code!
 - [valen_ibiza](https://twitter.com/valen_ibiza) - [link](https://twitter.com/valen_ibiza/status/1323236534481489920)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1323198013863546880)
 - [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323195469401452544) - [code](https://rpubs.com/nurussadad/Lines-30DMC)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1323215332425768960)
 
 ## Day 3
 
