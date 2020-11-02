@@ -34,7 +34,7 @@ Bonus points for related R code!
 2020-11-02 - Lines - *A map with lines*
 
 - [valen_ibiza](https://twitter.com/valen_ibiza) - [link](https://twitter.com/valen_ibiza/status/1323236534481489920)
-- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1323198013863546880)
+- [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323195469401452544) - [code](https://rpubs.com/nurussadad/Lines-30DMC)
 
 ## Day 3
 
