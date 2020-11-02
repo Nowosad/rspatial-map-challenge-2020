@@ -61,6 +61,8 @@ Bonus points for related R code!
 
 2020-11-03 - Polygons - *A map with polygons*
 
+- [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323403859918684160) - [code](https://rpubs.com/nurussadad/Polygons-30DMC)
+
 ## Day 4
 
 2020-11-04 - Hexagons - *A map with hexagons*
