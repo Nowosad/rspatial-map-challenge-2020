@@ -62,7 +62,9 @@ Bonus points for related R code!
 2020-11-03 - Polygons - *A map with polygons*
 
 - [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323403859918684160) - [code](https://rpubs.com/nurussadad/Polygons-30DMC)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1323549864249204736) - [code](https://t.co/uUujVgV2ql?amp=1)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1323578636033789954)
+
 
 ## Day 4
 
