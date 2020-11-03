@@ -47,15 +47,32 @@ Bonus points for related R code!
 - [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323054269851824129)
 - [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1323092527029886978)
 - [valen_ibiza](https://twitter.com/valen_ibiza) - [link](https://twitter.com/valen_ibiza/status/1323020336535883777)
+- [rgeomatic](https://twitter.com/rgeomatic) - [link](https://twitter.com/rgeomatic/status/1323206126482132992)
+- [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1323249563927535629)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1323381205581123591) - [code](https://github.com/sporella/30daymap/blob/master/1_points.R)
+- [bus_jus](https://twitter.com/bus_jus) - [link](https://twitter.com/bus_jus/status/1323507776937582592)
 
 ## Day 2
 
 2020-11-02 - Lines - *A map with lines*
 
-- [valen_ibiza](https://twitter.com/valen_ibiza) - [link](https://twitter.com/valen_ibiza/status/1323236534481489920)
+<img src="figs/day02-example.jpeg" width="500">
+
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1323198013863546880)
+- [valen_ibiza](https://twitter.com/valen_ibiza) - [link](https://twitter.com/valen_ibiza/status/1323236534481489920)
 - [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323195469401452544) - [code](https://rpubs.com/nurussadad/Lines-30DMC)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1323215332425768960)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1323106208430149632)
+- [rgeomatic](https://twitter.com/rgeomatic) - [link](https://twitter.com/rgeomatic/status/1323184726530732032)
+- [lemuscanovas](https://twitter.com/lemuscanovas) - [link](https://twitter.com/rgeomatic/status/1323211962466078721)
+- [geodatascience](https://twitter.com/geodatascience) - [link](https://twitter.com/geodatascience/status/1323233395783196672)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1323256819523923971)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1323291994920263681)
+- [mirzacengic](https://twitter.com/mirzacengic) - [link](https://twitter.com/mirzacengic/status/1323350008687714304)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1323398149382307840) - [code](https://github.com/sporella/30daymap/blob/master/2_lines.R)
+- [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1323451337875574786)
+- [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1323463146443431937)
+- [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1323563495275847681)
 
 ## Day 3
 
