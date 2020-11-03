@@ -6,14 +6,14 @@ To learn more about #30DayMapChallenge visit https://github.com/tjukanovt/30DayM
 ## How to contribute?
 
 Anyone is welcome to contribute.
-Feel free to create a pull request with a link to your map. 
+Feel free to create a pull request with a link to your map.
 Bonus points for related R code!
 
 ## Table of content
 
 ![](figs/map_challenge_themes_2020.jpg)
 
-|                     |                    |                    | 
+|                     |                    |                    |
 |---------------------|--------------------|--------------------|
 |  [Day 1](#day-1)    |  [Day 11](#day-11) |  [Day 21](#day-21) |
 |  [Day 2](#day-2)    |  [Day 12](#day-12) |  [Day 22](#day-22) |
@@ -26,7 +26,7 @@ Bonus points for related R code!
 |  [Day 9](#day-9)    |  [Day 19](#day-19) |  [Day 29](#day-29) |
 |  [Day 10](#day-10)  |  [Day 20](#day-20) |  [Day 30](#day-30) |
 
- 
+
 
 
 ## Day 1
@@ -62,6 +62,7 @@ Bonus points for related R code!
 2020-11-03 - Polygons - *A map with polygons*
 
 - [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323403859918684160) - [code](https://rpubs.com/nurussadad/Polygons-30DMC)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1323578636033789954)
 
 ## Day 4
 
