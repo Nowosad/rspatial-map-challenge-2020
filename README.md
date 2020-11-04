@@ -100,6 +100,9 @@ Bonus points for related R code!
 
 2020-11-04 - Hexagons - *A map with hexagons*
 
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324054397421236231)
+
+
 ## Day 5
 
 2020-11-05 - Blue - *A map with blue colour or a map about something blue*
