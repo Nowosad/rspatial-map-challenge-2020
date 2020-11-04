@@ -78,11 +78,23 @@ Bonus points for related R code!
 
 2020-11-03 - Polygons - *A map with polygons*
 
+<img src="figs/day03-example.png" width="500">
+
+- [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1323730609055977472)
 - [nurussadad](https://twitter.com/nurussadad) - [link](https://twitter.com/nurussadad/status/1323403859918684160) - [code](https://rpubs.com/nurussadad/Polygons-30DMC)
-- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1323549864249204736) - [code](https://t.co/uUujVgV2ql?amp=1)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1323549864249204736) - [code](https://dominicroye.github.io/en/2019/visualize-urban-growth/)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1323578636033789954)
 - [valen_ibiza](https://twitter.com/valen_ibiza) - [link](https://twitter.com/valen_ibiza/status/1323622223744278532)
-
+- [rgeomatic](https://twitter.com/rgeomatic) - [link](https://twitter.com/rgeomatic/status/1323569878717108225) - [code](https://gist.github.com/rCarto/f7c6d7e621448a7d5a80ef789112628a)
+- [afrimapr](https://twitter.com/afrimapr) - [link](https://twitter.com/afrimapr/status/1323620041217245186)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1323644589593473025)
+- [JohannesRahlf](https://twitter.com/JohannesRahlf) - [link](https://twitter.com/jmatics/status/1323705598672838660)
+- [katiejolly6](https://twitter.com/katiejolly6) - [link](https://twitter.com/katiejolly6/status/1323712903401283584) - [code](https://github.com/katiejolly/30-day-maps-2020/blob/main/03-polygons/03-polygons-single-family.R)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1323734045688254470) - [code](https://github.com/sporella/30daymap/blob/master/3_polygons.R)
+- [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1323739662213652482)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1323793538769969159)
+- [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1323849176765984769)
+- [giurugg](https://twitter.com/giurugg) - [link](https://twitter.com/giurugg/status/1324001783425961991)
 
 ## Day 4
 
