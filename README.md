@@ -51,6 +51,7 @@ Bonus points for related R code!
 - [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1323249563927535629)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1323381205581123591) - [code](https://github.com/sporella/30daymap/blob/master/1_points.R)
 - [bus_jus](https://twitter.com/bus_jus) - [link](https://twitter.com/bus_jus/status/1323507776937582592)
+- [JakubPacocha](https://twitter.com/JakubPacocha) - [link](https://twitter.com/JakubPacocha/status/1267883771216498690)
 
 ## Day 2
 
@@ -118,6 +119,7 @@ Bonus points for related R code!
 - [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1323856948551438336)
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1323827200869629952)
 - [geomigr](https://twitter.com/geomigr) - [link](https://twitter.com/geomigr/status/1323980607668523010)
+- [JakubPacocha](https://twitter.com/JakubPacocha) - [link](https://twitter.com/JakubPacocha/status/1324333778815361032?s=20)
 
 ## Day 5
 
