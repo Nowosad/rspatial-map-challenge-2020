@@ -100,8 +100,24 @@ Bonus points for related R code!
 
 2020-11-04 - Hexagons - *A map with hexagons*
 
-- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324054397421236231)
+<img src="figs/day04-example.jpeg" width="500">
 
+- [katiejolly6](https://twitter.com/katiejolly6) - [link](https://twitter.com/katiejolly6/status/1324201290159697921) - [code](https://github.com/katiejolly/30-day-maps-2020/blob/main/04-hexagons)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324054397421236231)
+- [rgeomatic](https://twitter.com/rgeomatic) - [link](https://twitter.com/rgeomatic/status/1324269211758350337) - [code](https://gist.github.com/rCarto/e8ac1e67d4632c79362532af3f2492bf)
+- [bus_jus](https://twitter.com/bus_jus) - [link](https://twitter.com/bus_jus/status/1324125270664597506)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1324114711516950529)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1324105404780077056) - [code](https://github.com/sporella/30daymap/blob/master/4_hexagons.R)
+- [FedericoTallis](https://twitter.com/FedericoTallis) - [code](https://twitter.com/FedericoTallis/status/1324066100246708233)
+- [LuizGalizia](https://twitter.com/LuizGalizia) - [code](https://twitter.com/LuizGalizia/status/1324058141382893569)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1324055479086174208)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1324048292376961024)
+- [afrimapr](https://twitter.com/afrimapr) - [link](https://twitter.com/afrimapr/status/1324038002696441856)
+- [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1324035149248503812)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1324011457684688897)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1323856948551438336)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1323827200869629952)
+- [geomigr](https://twitter.com/geomigr) - [link](https://twitter.com/geomigr/status/1323980607668523010)
 
 ## Day 5
 
