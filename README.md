@@ -120,12 +120,14 @@ Bonus points for related R code!
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1323827200869629952)
 - [geomigr](https://twitter.com/geomigr) - [link](https://twitter.com/geomigr/status/1323980607668523010)
 - [JakubPacocha](https://twitter.com/JakubPacocha) - [link](https://twitter.com/JakubPacocha/status/1324333778815361032?s=20)
+- [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1324084996190199809)
 
 ## Day 5
 
 2020-11-05 - Blue - *A map with blue colour or a map about something blue*
 
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324358054570303488)
+- [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1324540122340204545)
 
 
 ## Day 6
