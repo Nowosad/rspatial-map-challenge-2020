@@ -128,6 +128,7 @@ Bonus points for related R code!
 
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324358054570303488)
 - [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1324540122340204545)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1324412750697799681) - [code](https://github.com/sporella/30daymap/blob/master/5_blue.R)
 
 
 ## Day 6
@@ -135,6 +136,7 @@ Bonus points for related R code!
 2020-11-06 - Red - *A map with red colour or a map about something red*
 
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324724156982824960)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1324842999927300096) - [code](https://github.com/sporella/30daymap/blob/master/6_red.R)
 
 ## Day 7
 
