@@ -132,6 +132,8 @@ Bonus points for related R code!
 
 2020-11-06 - Red - *A map with red colour or a map about something red*
 
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324724156982824960)
+
 ## Day 7
 
 2020-11-07 - Green - *A map with green colour or a map about something green*
