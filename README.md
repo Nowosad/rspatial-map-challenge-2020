@@ -153,6 +153,8 @@ Bonus points for related R code!
 
 2020-11-07 - Green - *A map with green colour or a map about something green*
 
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1325097102507208705)
+
 ## Day 8
 
 2020-11-08 - Yellow - *A map with yellow colour or a map about something yellow*
