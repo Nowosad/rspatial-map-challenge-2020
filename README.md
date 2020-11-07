@@ -146,8 +146,17 @@ Bonus points for related R code!
 
 2020-11-06 - Red - *A map with red colour or a map about something red*
 
-- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324724156982824960)
+<img src="figs/day06-example.png" width="500">
+
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1324842999927300096) - [code](https://github.com/sporella/30daymap/blob/master/6_red.R)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324724156982824960)
+- [rgeomatic](https://twitter.com/rgeomatic) - [link](https://twitter.com/rgeomatic/status/1324651903838572544)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1324674544334966787)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1324772073395421184)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1324813307853836289)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1324917244921606146)
+- [bus_jus](https://twitter.com/bus_jus) - [link](https://twitter.com/bus_jus/status/1324924630872645632)
+- [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1324940562110308352)
 
 ## Day 7
 
