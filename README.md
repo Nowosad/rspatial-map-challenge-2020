@@ -126,10 +126,21 @@ Bonus points for related R code!
 
 2020-11-05 - Blue - *A map with blue colour or a map about something blue*
 
+<img src="figs/day05-example.png" width="500">
+
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1324403935503769600)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1324358054570303488)
 - [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1324540122340204545)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1324412750697799681) - [code](https://github.com/sporella/30daymap/blob/master/5_blue.R)
-
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1324238914325012480)
+- [rgeomatic](https://twitter.com/rgeomatic) - [link](https://twitter.com/rgeomatic/status/1324269850705993730)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1324391390042796033)
+- [joeroe90](https://twitter.com/joeroe90) - [link](https://twitter.com/joeroe90/status/1324450847259086854)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1324485492805718016)
+- [katiejolly6](https://twitter.com/katiejolly6) - [link](https://twitter.com/katiejolly6/status/1324536306735616000)
+- [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1324556541987483648)
+- [bus_jus](https://twitter.com/bus_jus) - [link](https://twitter.com/bus_jus/status/1324563244485279744)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1324668175913492483)
 
 ## Day 6
 
