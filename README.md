@@ -141,6 +141,7 @@ Bonus points for related R code!
 - [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1324556541987483648)
 - [bus_jus](https://twitter.com/bus_jus) - [link](https://twitter.com/bus_jus/status/1324563244485279744)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1324668175913492483)
+- [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1325198692698058755)
 
 ## Day 6
 
@@ -157,6 +158,9 @@ Bonus points for related R code!
 - [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1324917244921606146)
 - [bus_jus](https://twitter.com/bus_jus) - [link](https://twitter.com/bus_jus/status/1324924630872645632)
 - [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1324940562110308352)
+- [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1325198699031650304)
+- [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1325320675817525248)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1325383333702983680)
 
 ## Day 7
 
@@ -178,6 +182,13 @@ Bonus points for related R code!
 ## Day 8
 
 2020-11-08 - Yellow - *A map with yellow colour or a map about something yellow*
+
+<!-- <img src="figs/day08-example.png" width="500"> -->
+
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1325175058541678593)
+- [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1325198710746177536)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1325325033284243456)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1325454941696176129)
 
 ## Day 9
 
