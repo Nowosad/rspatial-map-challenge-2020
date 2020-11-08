@@ -162,7 +162,18 @@ Bonus points for related R code!
 
 2020-11-07 - Green - *A map with green colour or a map about something green*
 
+<img src="figs/day07-example.jpeg" width="500">
+
+- [assesslife](https://twitter.com/assesslife) - [link](https://twitter.com/assesslife/status/1324947388528726016)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1324818932566499329)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1325075795556130816)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1325075920760180738)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1325097102507208705)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1325117071089410048)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1325141688252133380)
+- [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1325198704735907845)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1325202367990562817)
+- [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1325320670780170247)
 
 ## Day 8
 
