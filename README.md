@@ -183,12 +183,21 @@ Bonus points for related R code!
 
 2020-11-08 - Yellow - *A map with yellow colour or a map about something yellow*
 
-<!-- <img src="figs/day08-example.png" width="500"> -->
+<img src="figs/day08-example.png" width="500"> 
 
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1325175058541678593)
 - [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1325198710746177536)
 - [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1325325033284243456)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1325454941696176129)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1325486204607983622)
+- [_skuethe](https://twitter.com/_skuethe) - [link](https://twitter.com/_skuethe/status/1325503257272311813)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1325508412474597378)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1325545130665922561)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1325610759284461568)
+- [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1325621803172163584)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1325666173451644928)
+- [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1325712999894589440)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1325813630479314944)
 
 ## Day 9
 
