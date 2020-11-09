@@ -178,6 +178,8 @@ Bonus points for related R code!
 - [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1325198704735907845)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1325202367990562817)
 - [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1325320670780170247)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1325665410105176064)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1325812864616108032)
 
 ## Day 8
 
