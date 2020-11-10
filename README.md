@@ -52,6 +52,7 @@ Bonus points for related R code!
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1323381205581123591) - [code](https://github.com/sporella/30daymap/blob/master/1_points.R)
 - [bus_jus](https://twitter.com/bus_jus) - [link](https://twitter.com/bus_jus/status/1323507776937582592)
 - [JakubPacocha](https://twitter.com/JakubPacocha) - [link](https://twitter.com/JakubPacocha/status/1267883771216498690)
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1322836184821833728)
 
 ## Day 2
 
@@ -74,6 +75,7 @@ Bonus points for related R code!
 - [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1323451337875574786)
 - [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1323463146443431937)
 - [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1323563495275847681)
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1323166665195048965)
 
 ## Day 3
 
@@ -96,6 +98,7 @@ Bonus points for related R code!
 - [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1323793538769969159)
 - [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1323849176765984769)
 - [giurugg](https://twitter.com/giurugg) - [link](https://twitter.com/giurugg/status/1324001783425961991)
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1323542606685548546)
 
 ## Day 4
 
@@ -121,6 +124,7 @@ Bonus points for related R code!
 - [geomigr](https://twitter.com/geomigr) - [link](https://twitter.com/geomigr/status/1323980607668523010)
 - [JakubPacocha](https://twitter.com/JakubPacocha) - [link](https://twitter.com/JakubPacocha/status/1324333778815361032?s=20)
 - [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1324084996190199809)
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1323892285956870145)
 
 ## Day 5
 
@@ -161,6 +165,7 @@ Bonus points for related R code!
 - [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1325198699031650304)
 - [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1325320675817525248)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1325383333702983680)
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1324623758217367556)
 
 ## Day 7
 
@@ -200,14 +205,19 @@ Bonus points for related R code!
 - [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1325666173451644928)
 - [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1325712999894589440)
 - [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1325813630479314944)
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1325411372629430278)
 
 ## Day 9
 
 2020-11-09 - Monochrome - *A monochromic image is composed of one color (or values of one color). So for example black and white maps are valid here. [See some inspiration from the great monochrome mapping competition](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/) (although those masterpieces took a bit more than a day to make, probably).*
 
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1325727846145413122)
+
 ## Day 10
 
 2020-11-19 - Grid - *Whether you call it a grid or a fishnet, the idea is to visualize something in a grid form*
+
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1326103266506182656)
 
 ## Day 11
 
