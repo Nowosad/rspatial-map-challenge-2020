@@ -211,7 +211,21 @@ Bonus points for related R code!
 
 2020-11-09 - Monochrome - *A monochromic image is composed of one color (or values of one color). So for example black and white maps are valid here. [See some inspiration from the great monochrome mapping competition](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/) (although those masterpieces took a bit more than a day to make, probably).*
 
+<img src="figs/day09-example.png" width="500"> 
+
 - [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1325727846145413122)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1325631088513970177)
+- [assesslife](https://twitter.com/assesslife) - [link](https://twitter.com/assesslife/status/1325678691368783872)
+- [BjnNowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1325689034073665541)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1325744014910480385)
+- [LuizGalizia](https://twitter.com/LuizGalizia) - [link](https://twitter.com/LuizGalizia/status/1325762816519905281)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1325815240907513856)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1325847793752281092)
+- [_skuethe](https://twitter.com/_skuethe) - [link](https://twitter.com/_skuethe/status/1325850672139530240)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1325852402398994432)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1325854398069628928)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1325950276445024256)
+- [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1326037386535395329)
 
 ## Day 10
 
