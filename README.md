@@ -247,6 +247,7 @@ Bonus points for related R code!
 - [BjnNowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1326040106654969857)
 - [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1325998807306416128)
 - [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1326103266506182656)
+- [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1326479238434709504)
 
 ## Day 11
 
