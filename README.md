@@ -226,6 +226,7 @@ Bonus points for related R code!
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1325854398069628928)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1325950276445024256)
 - [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1326037386535395329)
+- [katiejolly6](https://twitter.com/katiejolly6) - [link](https://twitter.com/katiejolly6/status/1326232875075710976)
 
 ## Day 10
 
