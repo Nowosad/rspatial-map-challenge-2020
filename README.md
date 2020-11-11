@@ -231,6 +231,20 @@ Bonus points for related R code!
 
 2020-11-19 - Grid - *Whether you call it a grid or a fishnet, the idea is to visualize something in a grid form*
 
+<img src="figs/day10-example.jpeg" width="500"> 
+
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1326089036935684096)
+- [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1326432163294752770)
+- [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1326383450388111363)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1326259807544815619)
+- [GrrdJul](https://twitter.com/GrrdJul) - [link](https://twitter.com/GrrdJul/status/1326246858944114689)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1326229292523659266)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1326219744702312457)
+- [jmatics](https://twitter.com/jmatics) - [link](https://twitter.com/jmatics/status/1326214976411996161)
+- [_skuethe](https://twitter.com/_skuethe) - [link](https://twitter.com/_skuethe/status/1326177628227850240)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1326160494160347137)
+- [BjnNowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1326040106654969857)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1325998807306416128)
 - [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1326103266506182656)
 
 ## Day 11
