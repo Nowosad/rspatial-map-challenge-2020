@@ -248,10 +248,32 @@ Bonus points for related R code!
 - [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1325998807306416128)
 - [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1326103266506182656)
 - [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1326479238434709504)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1326290538073567233)
 
 ## Day 11
 
 2020-11-11 - 3D - *The magnificent third dimension! Visualize something in 3D*
+
+<img src="figs/day11-example.jpeg" width="500"> 
+
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1326571601765216257)
+- [LuizGalizia](https://twitter.com/LuizGalizia) - [link](https://twitter.com/LuizGalizia/status/1326796976713818113)
+- [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1326785178606374912)
+- [Super_Explorer](https://twitter.com/Super_Explorer) - [link](https://twitter.com/Super_Explorer/status/1326739251350949891)
+- [PratapVardhan](https://twitter.com/PratapVardhan) - [link](https://twitter.com/PratapVardhan/status/1326723456449253379)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1326701516766502912)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1326648011737460739)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1326601947789586432)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1326584025306304514)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1326578195014033408)
+- [_skuethe](https://twitter.com/_skuethe) - [link](https://twitter.com/_skuethe/status/1326563185047035904)
+- [TheRealJimShady](https://twitter.com/TheRealJimShady) - [link](https://twitter.com/TheRealJimShady/status/1326530304161558529)
+- [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1326495648229842946)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1326481553359319042)
+- [geomigr](https://twitter.com/geomigr) - [link](https://twitter.com/geomigr/status/1326473536446357504)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1326447924067364865)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1326392718310957057)
+- [BjnNowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1326386178527031303)
 
 ## Day 12
 
