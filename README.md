@@ -283,6 +283,20 @@ Bonus points for related R code!
 
 2020-11-13 - Raster - *Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels*
 
+<img src="figs/day13-example.jpeg" width="500"> 
+
+- [chxmonesimo](https://twitter.com/chxmonesimo) - [link](https://twitter.com/chxmonesimo/status/1327429879311200256)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1327180310220509186)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1327194930775805952)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1327206283943047169)
+- [TheRealJimShady](https://twitter.com/TheRealJimShady) - [link](https://twitter.com/TheRealJimShady/status/1327229770250280970)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1327315479006908416)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1327315480537862144)
+- [_skuethe](https://twitter.com/_skuethe) - [link](https://twitter.com/_skuethe/status/1327327184579678210)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1327392899890257921)
+- [JuvenalCamposF](https://twitter.com/JuvenalCamposF) - [link](https://twitter.com/JuvenalCamposF/status/1327447732953309184)
+- [ldcgodoy](https://twitter.com/ldcgodoy) - [link](https://twitter.com/ldcgodoy/status/1327462181806469120)
+
 ## Day 14
 
 2020-11-14 - Climate change - *Climate change is one of the biggest challenges of our time and the spatial community has an important role to communicate this*
