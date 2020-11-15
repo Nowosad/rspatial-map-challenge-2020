@@ -190,7 +190,7 @@ Bonus points for related R code!
 
 2020-11-08 - Yellow - *A map with yellow colour or a map about something yellow*
 
-<img src="figs/day08-example.png" width="500"> 
+<img src="figs/day08-example.png" width="500">
 
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1325175058541678593)
 - [topographos2](https://twitter.com/topographos2) - [link](https://twitter.com/topographos2/status/1325198710746177536)
@@ -211,7 +211,7 @@ Bonus points for related R code!
 
 2020-11-09 - Monochrome - *A monochromic image is composed of one color (or values of one color). So for example black and white maps are valid here. [See some inspiration from the great monochrome mapping competition](https://somethingaboutmaps.wordpress.com/monocarto-2019-winners/) (although those masterpieces took a bit more than a day to make, probably).*
 
-<img src="figs/day09-example.png" width="500"> 
+<img src="figs/day09-example.png" width="500">
 
 - [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1325727846145413122)
 - [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1325631088513970177)
@@ -232,7 +232,7 @@ Bonus points for related R code!
 
 2020-11-19 - Grid - *Whether you call it a grid or a fishnet, the idea is to visualize something in a grid form*
 
-<img src="figs/day10-example.jpeg" width="500"> 
+<img src="figs/day10-example.jpeg" width="500">
 
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1326089036935684096)
 - [chinmay_deval](https://twitter.com/chinmay_deval) - [link](https://twitter.com/chinmay_deval/status/1326432163294752770)
@@ -254,7 +254,7 @@ Bonus points for related R code!
 
 2020-11-11 - 3D - *The magnificent third dimension! Visualize something in 3D*
 
-<img src="figs/day11-example.jpeg" width="500"> 
+<img src="figs/day11-example.jpeg" width="500">
 
 - [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1326571601765216257)
 - [LuizGalizia](https://twitter.com/LuizGalizia) - [link](https://twitter.com/LuizGalizia/status/1326796976713818113)
@@ -283,7 +283,7 @@ Bonus points for related R code!
 
 2020-11-13 - Raster - *Nothing stops you from doing almost all of the maps with raster data. But this day is dedicated to those lovely pixels*
 
-<img src="figs/day13-example.jpeg" width="500"> 
+<img src="figs/day13-example.jpeg" width="500">
 
 - [chxmonesimo](https://twitter.com/chxmonesimo) - [link](https://twitter.com/chxmonesimo/status/1327429879311200256)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1327180310220509186)
@@ -296,10 +296,15 @@ Bonus points for related R code!
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1327392899890257921)
 - [JuvenalCamposF](https://twitter.com/JuvenalCamposF) - [link](https://twitter.com/JuvenalCamposF/status/1327447732953309184)
 - [ldcgodoy](https://twitter.com/ldcgodoy) - [link](https://twitter.com/ldcgodoy/status/1327462181806469120)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1327893707765526533)
+
 
 ## Day 14
 
 2020-11-14 - Climate change - *Climate change is one of the biggest challenges of our time and the spatial community has an important role to communicate this*
+
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1327894595569655815)
+
 
 ## Day 15
 
