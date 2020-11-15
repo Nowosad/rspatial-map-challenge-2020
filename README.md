@@ -297,14 +297,23 @@ Bonus points for related R code!
 - [JuvenalCamposF](https://twitter.com/JuvenalCamposF) - [link](https://twitter.com/JuvenalCamposF/status/1327447732953309184)
 - [ldcgodoy](https://twitter.com/ldcgodoy) - [link](https://twitter.com/ldcgodoy/status/1327462181806469120)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1327893707765526533)
-
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1327839973073104901)
 
 ## Day 14
 
 2020-11-14 - Climate change - *Climate change is one of the biggest challenges of our time and the spatial community has an important role to communicate this*
 
-- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1327894595569655815)
+<img src="figs/day14-example.jpeg" width="500">
 
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1327700161024421891)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1327894595569655815)
+- [_skuethe](https://twitter.com/_skuethe) - [link](https://twitter.com/_skuethe/status/1327684360288546819)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1327642976156311554)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1327570352063598594)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1327731699489312768)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1327674809631666176)
+- [Kenneth_KHW](https://twitter.com/Kenneth_KHW) - [link](https://twitter.com/Kenneth_KHW/status/1327618222154153985)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1327518982014980096)
 
 ## Day 15
 
