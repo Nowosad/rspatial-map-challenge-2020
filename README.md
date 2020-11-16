@@ -314,6 +314,8 @@ Bonus points for related R code!
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1327674809631666176)
 - [Kenneth_KHW](https://twitter.com/Kenneth_KHW) - [link](https://twitter.com/Kenneth_KHW/status/1327618222154153985)
 - [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1327518982014980096)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1328048879128940550)
+- [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1328325435755696130)
 
 ## Day 15
 
