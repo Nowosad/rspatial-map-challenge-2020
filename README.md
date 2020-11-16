@@ -319,6 +319,17 @@ Bonus points for related R code!
 
 2020-11-15 - Connections - *Connections between something*
 
+<img src="figs/day15-example.jpeg" width="500">
+
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1328042891508289541)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1327906437574569985)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1327914852061487105)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1327935650977419264)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1328027566779854848)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1328028194751066112)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1328069399417413633)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1328099709240557568)
+
 ## Day 16
 
 2020-11-16 - Island(s) - *Islands tend to look quite beautiful on maps. Could be also something else than physical islands*
