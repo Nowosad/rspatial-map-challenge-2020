@@ -316,6 +316,7 @@ Bonus points for related R code!
 - [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1327518982014980096)
 - [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1328048879128940550)
 - [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1328325435755696130)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1328459429575094273)
 
 ## Day 15
 
@@ -331,10 +332,24 @@ Bonus points for related R code!
 - [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1328028194751066112)
 - [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1328069399417413633)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1328099709240557568)
+- [PratapVardhan](https://twitter.com/PratapVardhan) - [link](https://twitter.com/PratapVardhan/status/1328179697998565381)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1328463815101526018)
 
 ## Day 16
 
 2020-11-16 - Island(s) - *Islands tend to look quite beautiful on maps. Could be also something else than physical islands*
+
+<img src="figs/day16-example.jpeg" width="500">
+
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1328561594469584896)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1328176651302211584)
+- [PratapVardhan](https://twitter.com/PratapVardhan) - [link](https://twitter.com/PratapVardhan/status/1328534768250736640)
+- [geodatascience](https://twitter.com/geodatascience) - [link](https://twitter.com/geodatascience/status/1328301050399485954)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1328334310496235523)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1328368126334033920)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1328392802674176001)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1328401373453377536)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1328482720549310464)
 
 ## Day 17
 
