@@ -367,7 +367,7 @@ Bonus points for related R code!
 - [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1328783185421987840)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1328792572802838529)
 - [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1328874094008348678)
-
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329008447120084996)
 
 ## Day 18
 
