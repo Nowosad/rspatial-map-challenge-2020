@@ -355,6 +355,20 @@ Bonus points for related R code!
 
 2020-11-17 - Historical map - *Historical data, historical map style or something else*
 
+<img src="figs/day17-example.jpeg" width="500">
+
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1328876581356494849)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1328531876731031553)
+- [BjnNowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1328571008224276483)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1328619971023343617)
+- [giurugg](https://twitter.com/giurugg) - [link](https://twitter.com/giurugg/status/1328741559576223746)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1328744562135691270)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1328764534392238081)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1328783185421987840)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1328792572802838529)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1328874094008348678)
+
+
 ## Day 18
 
 2020-11-18 - Landuse - *How land is used, within a city, region, country or continent? How has it changed?*
