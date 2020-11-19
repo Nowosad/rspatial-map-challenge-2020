@@ -373,6 +373,18 @@ Bonus points for related R code!
 
 2020-11-18 - Landuse - *How land is used, within a city, region, country or continent? How has it changed?*
 
+<img src="figs/day18-example.jpeg" width="500">
+
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1328904653237575681)
+- [BjnNowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1328933100739579917)
+- [BjnNowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1329002209682599939)
+- [geodatascience](https://twitter.com/geodatascience) - [link](https://twitter.com/geodatascience/status/1329029905150070785)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1329010369830981632)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1329122166739144705)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1329148853245923336)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1329149628944617472)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329365047324282880)
+
 ## Day 19
 
 2020-11-19 - NULL - *Missing data. We all hate that, right? How to map something that is missing?*
