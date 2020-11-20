@@ -350,6 +350,7 @@ Bonus points for related R code!
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1328392802674176001)
 - [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1328401373453377536)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1328482720549310464)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1328431274525143044)
 
 ## Day 17
 
@@ -385,6 +386,7 @@ Bonus points for related R code!
 - [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1329149628944617472)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329365047324282880)
 - [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1329420068124569600)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1329890438845788160)
 
 ## Day 19
 
@@ -402,6 +404,8 @@ Bonus points for related R code!
 ## Day 20
 
 2020-11-20 - Population - *That is you and me. A classic theme for thematic maps*
+
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1329891045866418178)
 
 ## Day 21
 
