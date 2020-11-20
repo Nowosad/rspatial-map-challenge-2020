@@ -384,10 +384,20 @@ Bonus points for related R code!
 - [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1329148853245923336)
 - [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1329149628944617472)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329365047324282880)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1329420068124569600)
 
 ## Day 19
 
 2020-11-19 - NULL - *Missing data. We all hate that, right? How to map something that is missing?*
+
+<img src="figs/day19-example.jpeg" width="500">
+
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1329410849648291846)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1329420434190835713)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1329469458654478336)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1329502505244516354)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329554169011843073)
+- [vanhorssenpeter](https://twitter.com/vanhorssenpeter) - [link](https://twitter.com/vanhorssenpeter/status/1329789895079055362)
 
 ## Day 20
 
