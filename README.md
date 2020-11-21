@@ -385,6 +385,7 @@ Bonus points for related R code!
 - [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1329149628944617472)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329365047324282880)
 - [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1329420068124569600)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1329890438845788160)
 
 ## Day 19
 
@@ -398,6 +399,7 @@ Bonus points for related R code!
 - [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1329502505244516354)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329554169011843073)
 - [vanhorssenpeter](https://twitter.com/vanhorssenpeter) - [link](https://twitter.com/vanhorssenpeter/status/1329789895079055362)
+
 
 ## Day 20
 
