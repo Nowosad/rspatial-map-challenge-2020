@@ -403,6 +403,21 @@ Bonus points for related R code!
 
 2020-11-20 - Population - *That is you and me. A classic theme for thematic maps*
 
+<img src="figs/day20-example.jpeg" width="500">
+
+- [katiejolly6](https://twitter.com/katiejolly6) - [link](https://twitter.com/katiejolly6/status/1329961209861443587)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1329623517051179010)
+- [BjnNowak](https://twitter.com/BjnNowak) - [link](https://twitter.com/BjnNowak/status/1329654511275749376)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1329682857808293889)
+- [Elio_Javi](https://twitter.com/Elio_Javi) - [link](https://twitter.com/Elio_Javi/status/1329707728311365634)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1329832559841185792)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1329834987189923840)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1329835953062600711)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1329891045866418178)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1329913699398787073)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329924769110765572)
+- [PratapVardhan](https://twitter.com/PratapVardhan) - [link](https://twitter.com/PratapVardhan/status/1330009424577110016)
+
 ## Day 21
 
 2020-11-21 - Water - *Oceans, lakes, rivers or something completely different*
