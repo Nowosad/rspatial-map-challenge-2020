@@ -386,6 +386,7 @@ Bonus points for related R code!
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329365047324282880)
 - [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1329420068124569600)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1329890438845788160)
+- [Shel_Kariuki](https://twitter.com/Shel_Kariuki) - [link](https://twitter.com/Shel_Kariuki/status/1330161363809923076)
 
 ## Day 19
 
@@ -419,10 +420,24 @@ Bonus points for related R code!
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1329913699398787073)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1329924769110765572)
 - [PratapVardhan](https://twitter.com/PratapVardhan) - [link](https://twitter.com/PratapVardhan/status/1330009424577110016)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1330245191962415112)
+- [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1330271869161836548)
 
 ## Day 21
 
 2020-11-21 - Water - *Oceans, lakes, rivers or something completely different*
+
+<img src="figs/day21-example.jpeg" width="500">
+
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1330010838091124736)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1330089907721809921)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1330176304004689922)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1330209746280976384)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1330216625023365121)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1330248611263885323)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1330071950635511809)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1330188678757560322)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1330301262198427649)
 
 ## Day 22
 
