@@ -443,6 +443,8 @@ Bonus points for related R code!
 
 2020-11-22 - Movement - *Visualizing movement can be done with a static map or with an animation*
 
+- [Mathieu Basille](https://twitter.com/MabLabUF) - [link1](https://twitter.com/MabLabUF/status/1330596722322583552) / [link2](https://twitter.com/MabLabUF/status/1330600304304418821)
+
 ## Day 23
 
 2020-11-23 - Boundaries - *Boundaries are all around us. Some of them are visible and some of them are in our heads*
