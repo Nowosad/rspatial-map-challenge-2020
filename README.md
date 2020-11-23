@@ -440,6 +440,7 @@ Bonus points for related R code!
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1330071950635511809)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1330188678757560322)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1330301262198427649)
+- [Shel_Kariuki](https://twitter.com/Shel_Kariuki) - [link](https://twitter.com/Shel_Kariuki/status/1330567671801401350)
 
 ## Day 22
 
