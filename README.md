@@ -422,6 +422,8 @@ Bonus points for related R code!
 - [PratapVardhan](https://twitter.com/PratapVardhan) - [link](https://twitter.com/PratapVardhan/status/1330009424577110016)
 - [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1330245191962415112)
 - [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1330271869161836548)
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1329706477536342016)
+
 
 ## Day 21
 
@@ -444,6 +446,8 @@ Bonus points for related R code!
 2020-11-22 - Movement - *Visualizing movement can be done with a static map or with an animation*
 
 - [Mathieu Basille](https://twitter.com/MabLabUF) - [link1](https://twitter.com/MabLabUF/status/1330596722322583552) / [link2](https://twitter.com/MabLabUF/status/1330600304304418821)
+- [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1330538849290883072)
+
 
 ## Day 23
 
