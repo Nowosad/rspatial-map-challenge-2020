@@ -445,6 +445,19 @@ Bonus points for related R code!
 
 2020-11-22 - Movement - *Visualizing movement can be done with a static map or with an animation*
 
+<img src="figs/day22-example.jpeg" width="500">
+
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1330423566995755011)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1330439584463921152)
+- [LuizGalizia](https://twitter.com/LuizGalizia) - [link](https://twitter.com/LuizGalizia/status/1330478539393601537)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1330495947319758856)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1330501147782574081)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1330521930626117635)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1330576446935404544)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1330623761675120647)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1330633306170421252)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1330636507653271555)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1330815101788594178)
 - [Mathieu Basille](https://twitter.com/MabLabUF) - [link1](https://twitter.com/MabLabUF/status/1330596722322583552) / [link2](https://twitter.com/MabLabUF/status/1330600304304418821)
 - [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1330538849290883072)
 
