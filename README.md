@@ -467,6 +467,18 @@ Bonus points for related R code!
 
 2020-11-23 - Boundaries - *Boundaries are all around us. Some of them are visible and some of them are in our heads*
 
+<img src="figs/day23-example.jpeg" width="500">
+
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1330997182116327425)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1330851504027299841)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1330887080566812673)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1330905430101553158)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1330929543746625540)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1330943606220349440)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1330971837409398787)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1331025774401515520)
+- [katiejolly6](https://twitter.com/katiejolly6) - [link](https://twitter.com/katiejolly6/status/1331065812938059776)
+
 ## Day 24
 
 2020-11-24 - Elevation - *Sweet hillshades, beautiful contours, high mountains or low valleys*
