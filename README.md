@@ -441,6 +441,7 @@ Bonus points for related R code!
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1330188678757560322)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1330301262198427649)
 - [Shel_Kariuki](https://twitter.com/Shel_Kariuki) - [link](https://twitter.com/Shel_Kariuki/status/1330567671801401350)
+- [assesslife](https://twitter.com/assesslife) - [link](https://twitter.com/assesslife/status/1330056980422123523)
 
 ## Day 22
 
