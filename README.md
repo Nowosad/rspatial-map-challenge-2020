@@ -479,10 +479,27 @@ Bonus points for related R code!
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1330971837409398787)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1331025774401515520)
 - [katiejolly6](https://twitter.com/katiejolly6) - [link](https://twitter.com/katiejolly6/status/1331065812938059776)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1331387111778496513)
 
 ## Day 24
 
 2020-11-24 - Elevation - *Sweet hillshades, beautiful contours, high mountains or low valleys*
+
+<img src="figs/day24-example.jpeg" width="500">
+
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1331379303385337856)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1331502079257534470)
+- [PratapVardhan](https://twitter.com/PratapVardhan) - [link](https://twitter.com/PratapVardhan/status/1331445228423831552)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1331388099579039752)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1331075784983842824)
+- [assesslife](https://twitter.com/assesslife) - [link](https://twitter.com/assesslife/status/1331105044658270208)
+- [neocartocnrs](https://twitter.com/neocartocnrs) - [link](https://twitter.com/neocartocnrs/status/1331146558998523906)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1331224600848560130)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1331284438462853120)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1331297472661102599)
+- [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1331365466128912385)
+- [vivalosburros](https://twitter.com/vivalosburros) - [link](https://twitter.com/vivalosburros/status/1331378480114765827)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1331388099579039752)
 
 ## Day 25
 
