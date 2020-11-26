@@ -506,7 +506,7 @@ Bonus points for related R code!
 
 ## Day 25
 
-2020-11-25 - COVID-19 - *It’s 2020 and I’m just as fed up with COVID-19 as you are, but just can’t skip this theme this year. Check [this blog post](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)for some tips*
+2020-11-25 - COVID-19 - *It’s 2020 and I’m just as fed up with COVID-19 as you are, but just can’t skip this theme this year. Check [this blog post](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/) for some tips*
 
 <img src="figs/day25-example.png" width="500">
 
