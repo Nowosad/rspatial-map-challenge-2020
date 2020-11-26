@@ -503,6 +503,7 @@ Bonus points for related R code!
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1331388099579039752)
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1331900311024398336)
 - [andymacmeister1](https://twitter.com/andymacmeister1) - [link](https://twitter.com/andymacmeister1/status/1331582734003789824)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1331757365637636098)
 
 ## Day 25
 
@@ -516,7 +517,7 @@ Bonus points for related R code!
 - [chxmonesimo](https://twitter.com/chxmonesimo) - [link](https://twitter.com/chxmonesimo/status/1331522879658233857)
 - [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1331616304751587330)
 - [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1331631697004269569)
-- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1331757365637636098)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1332048588516560902)
 - [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1331886065334927360)
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1331957934029479937)
 
