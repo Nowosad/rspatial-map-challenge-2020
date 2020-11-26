@@ -480,6 +480,7 @@ Bonus points for related R code!
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1331025774401515520)
 - [katiejolly6](https://twitter.com/katiejolly6) - [link](https://twitter.com/katiejolly6/status/1331065812938059776)
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1331387111778496513)
+- [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1331628781488881664)
 
 ## Day 24
 
@@ -500,10 +501,24 @@ Bonus points for related R code!
 - [cstats1](https://twitter.com/cstats1) - [link](https://twitter.com/cstats1/status/1331365466128912385)
 - [vivalosburros](https://twitter.com/vivalosburros) - [link](https://twitter.com/vivalosburros/status/1331378480114765827)
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1331388099579039752)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1331900311024398336)
+- [andymacmeister1](https://twitter.com/andymacmeister1) - [link](https://twitter.com/andymacmeister1/status/1331582734003789824)
 
 ## Day 25
 
 2020-11-25 - COVID-19 - *It’s 2020 and I’m just as fed up with COVID-19 as you are, but just can’t skip this theme this year. Check [this blog post](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)for some tips*
+
+<img src="figs/day25-example.png" width="500">
+
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1331739329044078593)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1331515902618193920)
+- [neocartocnrs](https://twitter.com/neocartocnrs) - [link](https://twitter.com/neocartocnrs/status/1331516242960789507)
+- [chxmonesimo](https://twitter.com/chxmonesimo) - [link](https://twitter.com/chxmonesimo/status/1331522879658233857)
+- [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1331616304751587330)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1331631697004269569)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1331757365637636098)
+- [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1331886065334927360)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1331957934029479937)
 
 ## Day 26
 
