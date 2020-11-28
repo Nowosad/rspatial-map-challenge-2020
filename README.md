@@ -529,6 +529,13 @@ Bonus points for related R code!
 
 2020-11-27 - Big or small data - *What is meaningful big spatial data? What kind of spatial data is small but interesting?*
 
+<img src="figs/day27-example.png" width="500">
+
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1332369748462497792)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1332452390180704258)
+- [afrimapr](https://twitter.com/afrimapr) - [link](https://twitter.com/afrimapr/status/1332284210430750721)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1332266976773861382)
+
 ## Day 28
 
 2020-11-28 - Non-geographic map - *Topological maps, maps about planets, microscopic bacteria mapped or maybe even something weirder*
