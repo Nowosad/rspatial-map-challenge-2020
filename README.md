@@ -525,6 +525,11 @@ Bonus points for related R code!
 
 2020-11-26 - Map with a new tool - *As the whole challenge is much about learning and experimenting, this day is dedicated to exploring new tools*
 
+<img src="figs/day26-example.jpeg" width="500">
+
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1332652724740100096)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1332023844777857025)
+
 ## Day 27
 
 2020-11-27 - Big or small data - *What is meaningful big spatial data? What kind of spatial data is small but interesting?*
