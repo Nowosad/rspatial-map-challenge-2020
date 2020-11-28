@@ -540,6 +540,7 @@ Bonus points for related R code!
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1332452390180704258)
 - [afrimapr](https://twitter.com/afrimapr) - [link](https://twitter.com/afrimapr/status/1332284210430750721)
 - [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1332266976773861382)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1332685734906630144)
 
 ## Day 28
 
