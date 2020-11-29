@@ -442,6 +442,8 @@ Bonus points for related R code!
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1330301262198427649)
 - [Shel_Kariuki](https://twitter.com/Shel_Kariuki) - [link](https://twitter.com/Shel_Kariuki/status/1330567671801401350)
 - [assesslife](https://twitter.com/assesslife) - [link](https://twitter.com/assesslife/status/1330056980422123523)
+- [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1330099021747277825)
+- [JoshCopping](https://twitter.com/JoshCopping) - [link](https://twitter.com/JoshCopping/status/1330192393606410243)
 
 ## Day 22
 
@@ -462,7 +464,9 @@ Bonus points for related R code!
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1330815101788594178)
 - [Mathieu Basille](https://twitter.com/MabLabUF) - [link1](https://twitter.com/MabLabUF/status/1330596722322583552) / [link2](https://twitter.com/MabLabUF/status/1330600304304418821)
 - [lxndrkp](https://twitter.com/lxndrkp) - [link](https://twitter.com/lxndrkp/status/1330538849290883072)
-
+- [JoshCopping](https://twitter.com/JoshCopping) - [link](https://twitter.com/JoshCopping/status/1330577633080389633)
+- [MikeMahoney218](https://twitter.com/MikeMahoney218) - [link](https://twitter.com/MikeMahoney218/status/1330520158339645440)
+- [datagistips](https://twitter.com/datagistips) - [link](https://twitter.com/datagistips/status/1330428014862213124)
 
 ## Day 23
 
@@ -481,6 +485,8 @@ Bonus points for related R code!
 - [katiejolly6](https://twitter.com/katiejolly6) - [link](https://twitter.com/katiejolly6/status/1331065812938059776)
 - [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1331387111778496513)
 - [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1331628781488881664)
+- [JoshCopping](https://twitter.com/JoshCopping) - [link](https://twitter.com/JoshCopping/status/1330959836910133251)
+- [zentree](https://twitter.com/zentree) - [link](https://twitter.com/zentree/status/1330481155989254150)
 
 ## Day 24
 
@@ -504,6 +510,10 @@ Bonus points for related R code!
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1331900311024398336)
 - [andymacmeister1](https://twitter.com/andymacmeister1) - [link](https://twitter.com/andymacmeister1/status/1331582734003789824)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1331757365637636098)
+- [Makeo88](https://twitter.com/Makeo88) - [link](https://twitter.com/Makeo88/status/1331452253375328258)
+- [MikeMahoney218](https://twitter.com/MikeMahoney218) - [link](https://twitter.com/MikeMahoney218/status/1331239397677678592)
+- [MrNSheehan](https://twitter.com/MrNSheehan) - [link](https://twitter.com/MrNSheehan/status/1331200340859957252)
+- [geodatascience](https://twitter.com/geodatascience) - [link](https://twitter.com/geodatascience/status/1331199031889039360)
 
 ## Day 25
 
