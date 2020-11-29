@@ -444,6 +444,7 @@ Bonus points for related R code!
 - [assesslife](https://twitter.com/assesslife) - [link](https://twitter.com/assesslife/status/1330056980422123523)
 - [geokaramanis](https://twitter.com/geokaramanis) - [link](https://twitter.com/geokaramanis/status/1330099021747277825)
 - [JoshCopping](https://twitter.com/JoshCopping) - [link](https://twitter.com/JoshCopping/status/1330192393606410243)
+- [Makeo88](https://twitter.com/Makeo88) - [link](https://twitter.com/Makeo88/status/1329924646452432896)
 
 ## Day 22
 
