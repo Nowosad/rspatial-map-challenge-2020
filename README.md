@@ -529,6 +529,8 @@ Bonus points for related R code!
 
 - [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1332652724740100096)
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1332023844777857025)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1331938517052743680)
+- [MikeMahoney218](https://twitter.com/MikeMahoney218) - [link](https://twitter.com/MikeMahoney218/status/1331968954902982656)
 
 ## Day 27
 
@@ -541,6 +543,8 @@ Bonus points for related R code!
 - [afrimapr](https://twitter.com/afrimapr) - [link](https://twitter.com/afrimapr/status/1332284210430750721)
 - [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1332266976773861382)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1332685734906630144)
+- [zentree](https://twitter.com/zentree) - [link](https://twitter.com/zentree/status/1332274165835984898)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1332379755413385219)
 
 ## Day 28
 
@@ -551,6 +555,9 @@ Bonus points for related R code!
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1332792129211469830)
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1332730487601729536)
 - [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1333059175757328389)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1332943799518191617)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1332765843231551491)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1332684307786305545)
 
 ## Day 29
 
