@@ -546,6 +546,12 @@ Bonus points for related R code!
 
 2020-11-28 - Non-geographic map - *Topological maps, maps about planets, microscopic bacteria mapped or maybe even something weirder*
 
+<img src="figs/day28-example.png" width="500">
+
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1332792129211469830)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1332730487601729536)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1333059175757328389)
+
 ## Day 29
 
 2020-11-29 - Globe - *The world isn’t flat, so with this map you can emphase the roundness of our planet*
