@@ -350,6 +350,7 @@ Bonus points for related R code!
 - [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1328392802674176001)
 - [footloose_nil](https://twitter.com/footloose_nil) - [link](https://twitter.com/footloose_nil/status/1328401373453377536)
 - [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1328482720549310464)
+- [dakvid](https://twitter.com/dakvid) - [link](https://twitter.com/dakvid/status/1333173581459537920)
 
 ## Day 17
 
@@ -573,6 +574,22 @@ Bonus points for related R code!
 ## Day 29
 
 2020-11-29 - Globe - *The world isn’t flat, so with this map you can emphase the roundness of our planet*
+
+<img src="figs/day29-example.jpeg" width="500">
+
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1333000268288577538)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1333013962926006272/photo/1)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1333322423601672194)
+- [UrbanDemog](https://twitter.com/UrbanDemog) - [link](https://twitter.com/UrbanDemog/status/1333158609421815815)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1333136156645617665)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1333132010555060224)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1333095728034570240)
+- [JoshCopping](https://twitter.com/JoshCopping) - [link](https://twitter.com/JoshCopping/status/1333093929651216384)
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1333082949638627329)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1333075189332992004)
+- [geomigr](https://twitter.com/geomigr) - [link](https://twitter.com/geomigr/status/1333070607811039232)
+- [MikeMahoney218](https://twitter.com/MikeMahoney218) - [link](https://twitter.com/MikeMahoney218/status/1333050833559142412)
+- [neocartocnrs](https://twitter.com/neocartocnrs) - [link](https://twitter.com/neocartocnrs/status/1332961439703773184)
 
 ## Day 30
 
