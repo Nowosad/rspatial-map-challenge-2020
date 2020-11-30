@@ -590,6 +590,7 @@ Bonus points for related R code!
 - [geomigr](https://twitter.com/geomigr) - [link](https://twitter.com/geomigr/status/1333070607811039232)
 - [MikeMahoney218](https://twitter.com/MikeMahoney218) - [link](https://twitter.com/MikeMahoney218/status/1333050833559142412)
 - [neocartocnrs](https://twitter.com/neocartocnrs) - [link](https://twitter.com/neocartocnrs/status/1332961439703773184)
+- [toeb18](https://twitter.com/toeb18) - [link](https://twitter.com/toeb18/status/1333165748345319425)
 
 ## Day 30
 
