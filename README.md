@@ -595,3 +595,19 @@ Bonus points for related R code!
 ## Day 30
 
 2020-11-30 - A map - *No rules. You've made it this far, so do what you want. Just make a map*
+
+<img src="figs/day30-example.jpeg" width="500">
+
+- [dickoah](https://twitter.com/dickoah) - [link](https://twitter.com/dickoah/status/1333506738386038784)
+- [emilmalta](https://twitter.com/emilmalta) - [link](https://twitter.com/emilmalta/status/1333568632815759362)
+- [Makeo88](https://twitter.com/Makeo88) - [link](https://twitter.com/Makeo88/status/1333196895737397248)
+- [balt_ti](https://twitter.com/balt_ti) - [link](https://twitter.com/balt_ti/status/1333248400087797761)
+- [darwinanddavis](https://twitter.com/darwinanddavis) - [link](https://twitter.com/darwinanddavis/status/1333329257972391937)
+- [dr_xeo](https://twitter.com/dr_xeo) - [link](https://twitter.com/dr_xeo/status/1333346904877506561)
+- [MikeMahoney218](https://twitter.com/MikeMahoney218) - [link](https://twitter.com/MikeMahoney218/status/1333411460345520128)
+- [JonasStillhard](https://twitter.com/JonasStillhard) - [link](https://twitter.com/JonasStillhard/status/1333440837074759682)
+- [ldcgodoy](https://twitter.com/ldcgodoy) - [link](https://twitter.com/ldcgodoy/status/1333452632145399808)
+- [_anirudhgovind](https://twitter.com/_anirudhgovind) - [link](https://twitter.com/_anirudhgovind/status/1333466034909507584)
+- [JanPhilippKolb](https://twitter.com/JanPhilippKolb) - [link](https://twitter.com/JanPhilippKolb/status/1333493762501251072)
+- [sporella](https://twitter.com/sporella) - [link](https://twitter.com/sporella/status/1333513542289530880)
+
